@@ -1,0 +1,162 @@
+ACSOS 2020
+
+Building Reusable Repertoires for Stochastic Self-* Planners
+Cody Kinneer, Rijnard van Tonder, David Garlan and Claire Le Goues
+
+Reconfigurable Embedded Devices Using Reinforcement Learning to Develop Action-Policies
+Alwyn Burger, David King and Gregor Schiele
+
+Understanding Uncertainty in Self-adaptive Systems
+Radu Calinescu, Raffaela Mirandola, Diego Perez-Palacin and Danny Weyns
+
+ENSURE: Efficient Scheduling and Autonomous Resource Management in Serverless Environments
+Amoghavarsha Suresh, Gagan Somashekar, Anandh Varadarajan, Veerendra Ramesh Kakarla, Hima Upadhyay and Anshul Gandhi
+
+Reasoning about When to Provide Explanation for Human-involved Self-Adaptive Systems
+Nianyu Li, Javier Cámara, David Garlan and Bradley Schmerl
+
+PRESTO: a latency-aware power-capping orchestrator for cloud-native microservices
+Rolando Brondolin and Marco Domenico Santambrogio
+
+DeCrypto Pro: Deep Learning Based Cryptomining Malware Detection Using Performance Counters
+Ganapathy Mani, Vikram Pasumarti, Bharat Bhargava, Faisal Tariq Vora, James MacDonald, Justin King and Jason Kobes
+
+Learning Distributed Controllers for V-Formation
+Shouvik Roy, Usama Mehmood, Radu Grosu, Scott Smolka, Scott Stoller and Ashish Tiwari
+
+Hybrid Planning Using Learning and Model Checking for Autonomous Systems
+Ashutosh Pandey, Ivan Ruchkin, Bradley Schmerl and David Garlan
+
+REACT: A Model-Based Runtime Environment for Adapting Communication Systems
+Martin Pfannemüller, Martin Breitbach, Christian Krupitzer, Markus Weckesser, Christian Becker, Bradley Schmerl and Andy Schürr
+
+Coevolutionary Learning of Neuromodulated Controllers for Multi-Stage and Gamified Tasks
+Chloe M. Barnes, Anikó Ekárt, Kai Olav Ellefsen, Kyrre Glette, Peter R. Lewis and Jim Tørresen
+
+Case Study of an Automated Approach to Managing Collections of Autonomic Systems
+Thomas Glazier, David Garlan and Bradley Schmerl
+
+Hierarchical Scaling of Microservices in Kubernetes
+Fabiana Rossi, Valeria Cardellini and Francesco Lo Presti
+
+A Survey of Methodology in Self-Adaptive Systems Research
+Barry Porter, Roberto Vito Rodrigues Filho and Paul Dean
+
+A self-configuring and adaptive privacy-aware permission system for Android apps
+Gian Luca Scoccia, Marco Autili and Paola Inverardi
+
+Deadlock Avoidance for Multiple Tasks in a Self-Organizing Production Cell
+Joseph Hirsch, Martin Neumayer, Hella Ponsar, Oliver Kosak and Wolfgang Reif
+
+Adaptive Trust-Aware Decentralized Information Flow Control
+Charilaos Skandylas, Narges Khakpour and Jesper Andersson
+
+Collective Learning: A 10-Year Odyssey to Human-centered Distributed Intelligence
+Evangelos Pournaras
+
+Self-Patch: Beyond Patch Tuesday for Containerized Applications
+Olufogorehan Tunde-Onadele, Yuhang Lin, Jingzhu He and Xiaohui Gu
+
+Design-Time Validation of Runtime Reconfiguration Strategies: An Environmental-Driven Approach
+Max Scheerer, Martina Rapp and Ralf Reussner
+
+Taming Resource Heterogeneity In Distributed ML Training With Dynamic Batching
+Sahil Tyagi and Prateek Sharma
+
+FCPP: an efficient and extensible field calculus framework
+Giorgio Audrito
+
+A Distributed Population Management Approach for Mobile Agent Systems
+Bryan Prosser and Errin Fulp
+
+How far should I watch? Quantifying the effect of various observational capabilities on long-range situational awareness in multi-robot teams
+Sehyeok Kang, Taeyeong Choi and Theodore Pavlic
+
+Assessing Adaptations based on Change Impacts
+Sharmin Jahan, Ian Riley and Rose Gamble
+
+MERIT: Model-driven Rehoming for VNF Chains
+Muhammad Wajahat, Bharath Balasubramanian, Anshul Gandhi, Gueyoung Jung and Shankaranarayanan Puzhavakath Narayanan
+
+Evaluating the Effect of User-Given Guiding Attention on the Learning Process
+Richard Nordsieck, Michael Heider, Andreas Angerer and Jörg Hähner
+
+Automating GUI Testing with Image-Based Deep Reinforcement Learning
+Juha Eskonen, Julen Kahles and Joel Reijonen
+
+
+
+SEAMS 2020
+	
+A Hybrid Approach Combining Control Theory and AI for Engineering Self-Adaptive SystemsTechnical
+Ricardo CaldasChalmers, Arthur RodriguesUniversity of Brası́lia, Eric Bernd GilUniversity of Brasilia, Genaína Nunes RodriguesUniversity of Brasília, Thomas VogelHumboldt-Universität zu Berlin, Patrizio PelliccioneUniversity of L'Aquila and Chalmers | University of Gothenburg
+	
+Applying Deep Learning to Reduce Large Adaptation Spaces of Self-Adaptive Systems with Multiple Types of GoalsTechnical
+Jeroen Van Der DoncktKU Leuven, Danny WeynsKU Leuven, Federico QuinKatholieke Universiteit Leuven, Jonas Van Der DoncktGhent University, Sam MichielsKatholieke Universiteit Leuven	
+	
+Towards Classes of Architectural Dependability Assurance of Machine Learning Based SystemsNIER
+Max ScheererFZI Research Center for Information Technology, Germany, Jonas KlamrothFZI Research Center for Information Technology, Germany, Ralf ReussnerKarlsruhe Institute of Technology (KIT) and FZI - Research Center for Information Technology (FZI), Bernhard BeckertKarlsruhe Institute of Technology
+	
+A Framework for the Analysis of Adaptive Systems Using Bayesian StatisticsNIER
+Yuning HeNASA Ames, Johann SchumannNASA Ames
+	
+Leveraging Test Logs for Building a Self-Adaptive Path PlannerNIER
+Kun LiuPeking University, China, Xiaoyi ZhangNational Institute of Informatics, Japan, Paolo ArcainiNational Institute of Informatics , Fuyuki IshikawaNational Institute of Informatics, Wenpin JiaoPeking University, China
+	
+Supporting Viewpoints to Review the Lack of Requirements in Space Systems with Machine LearningExperience
+Kenji MoriJapan Aerospace Exploration Agency, Japan, Naoko OkuboJapan Aerospace Exploration Agency, Japan, Yasushi UedaJapan Aerospace Exploration Agency, Japan, Masafumi KatahiraJapan Aerospace Exploration Agency, Toshiyuki AmagasaUniversity of Tsukuba, Japan
+	
+DATESSO: Self-Adapting Service Composition with Debt-Aware Two Levels Constraint ReasoningTechnicalBest Student Paper
+Satish KumarUniversity of Birmingham, United Kingdom, Tao ChenLoughborough University, Rami BahsoonUniversity of Birmingham, Rajkumar BuyyaUniversity of Melbourne, Australia	
+	
+Towards Bridging the Gap between Control and Self-Adaptive System PropertiesNIER
+Javier CamaraUniversity of York, Alessandro Vittorio PapadopoulosMälardalen University, Thomas VogelHumboldt-Universität zu Berlin, Danny WeynsKU Leuven, David GarlanCarnegie Mellon University, Shihong HuangFlorida Atlantic University, Kenji TeiWaseda University / National Institute of Informatics, Japan
+	
+Explanation for Human-on-the-loop: a probabilistic model checking approachNIER
+NIANYU LIPeking University, China, Sridhar AdepuSingapore University of Technology and Design, Singapore, Eunsuk KangCarnegie Mellon University, David GarlanCarnegie Mellon University
+	
+An Ontological Architecture for Principled and Automated System of Systems CompositionTechnical
+Abdessalam ElhabbashLancaster University, Vatsala NundlollLancaster University, Yehia ElkhatibLancaster University, Gordon BlairLancaster University, Vicent Sanz MarcoLancaster University
+	
+A Platform to Enable Self-Adaptive Cloud Applications Using Trustworthiness PropertiesDemo
+José D'Abruzzo PereiraUniversity of Coimbra, Rui SilvaUniversity of Coimbra, Nuno AntunesUniversidade de Coimbra, Jorge Luiz Machado da SilvaUnicamp, Breno de FrançaUNICAMP, Regina MoraesUNICAMP, Marco VieiraUniversity of Coimbra	
+	
+Learning Run-time Compositions of Interacting AdaptationsNIER
+Nicolás CardozoUniversidad de los Andes, Ivana DusparicTrinity College Dublin, Ireland
+	
+Monitoring for Control in Role-oriented Self-Adaptive SystemsDoctoral
+Ilja ShmelkinTechnische Universität Dresden, Germany
+	
+A Role-Based Architecture for Self-Adaptive Cyber-Physical SystemsDoctoral
+Tim KlugeTU Dresden, Germany
+	
+Software Architecture and Task Plan Co-Adaptation for Mobile Service RobotsTechnical
+Javier CamaraUniversity of York, Bradley SchmerlCarnegie Mellon University, USA, David GarlanCarnegie Mellon University
+	
+Dynamic Adaptation of Software-defined Networks for IoT Systems: A Search-based ApproachTechnicalBest Paper
+Seung Yeob ShinSnT Centre/University of Luxembourg, Shiva NejatiUniversity of Ottawa, Mehrdad SabetzadehUniversity of Ottawa, Lionel BriandSnT Centre/University of Luxembourg, Chetan AroraSchool of Information Technology, Deakin University, Frank ZimmerSES Techcom
+	
+Knowledge Aggregation with Subjective Logic in Multi-Agent Self-Adaptive Cyber-Physical SystemsNIER
+Ana PetrovskaTechnical University of Munich, Germany, Sergio QuijanoTechnical University of Munich, Germany, Ilias GerostathopoulosVrije Universiteit Amsterdam, Alexander Pretschner
+
+	
+Using Component Ensembles for Modeling Autonomic Component Collaboration in Smart FarmingDemo
+Petr HnetynkaCharles University, Tomas BuresCharles University, Czech Republic, Ilias GerostathopoulosVrije Universiteit Amsterdam, Jan PacovskýCharles University, Czechia
+	
+Collective Risk Minimization via a Bayesian Model for Statistical Software TestingTechnical
+Joachim HaenselHasso Plattner Institute, University of Potsdam, Germany, Christian Medeiros AdrianoHasso-Plattner-Institute, Potsdam, Johannes DyckHasso Plattner Institute for Software Systems Engineering, Germany, Holger GieseHasso Plattner Institute, University of Potsdam
+	
+Expecting the Unexpected: Developing Autonomous-System Design Principles for Reacting to Unpredicted Events and ConditionsNIER
+Assaf MarronWeizmann Institute of Science, Israel, Lior LimonadIBM Corporation, Israel, Sarah PollackWeizmann Institute of Science, Israel, David HarelWeizmann Institute of Science, Israel
+	
+Self-Protection Against Business Logic VulnerabilitiesNIER
+Silvan ZellerOmegapoint AB, Sweden, Narges KhakpourLinnaeus University, Danny WeynsKU Leuven, Daniel DeogunOmegapoint AB, Sweden
+
+Towards Highly Scalable Runtime Models with HistoryNIER
+Lucas SakizloglouHasso Plattner Institute, University of Potsdam, Sona GhahremaniHasso Plattner Institute, University of Potsdam, Thomas Brand, Matthias BarkowskyHasso Plattner Institute, University of Potsdam, Germany, Holger GieseHasso Plattner Institute, University of Potsdam
+	
+Towards a Code of Ethics for Autonomous and Self-Adaptive SystemsEthical
+Danny WeynsKU Leuven
+	
+Human in the Loop: What is the Point of no Return?Ethical
+Rogério de LemosUniversity of Kent, UK

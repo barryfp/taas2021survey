@@ -1,0 +1,262 @@
+SASO 2019
+
+Full papers
+
+    Maxime Guériau, Nicolas Cardozo and Ivana Dusparic. Constructivist Approach to State Space Adaptation in Reinforcement Learning
+    David King and Gilbert Peterson. The Emergence of Division of Labor in Multi-Agent Systems
+    Denise Ratasich, Michael Platzer, Radu Grosu and Ezio Bartocci. Adaptive Fault Detection exploiting Redundancy with Uncertainties in Space and Time
+    Abdulmajid Murad, Frank Alexander Kraemer, Kerstin Bach and Gavin Taylor. Autonomous Management of Energy-Harvesting IoT Nodes Using Deep Reinforcement Learning
+    Barry Porter and Roberto Vito Rodrigues Filho. Distributed Emergent Software: Assembling, Perceiving and Learning Systems at Scale
+    Agata Barcis and Christian Bettstetter. Beyond Sync: Distributed Temporal Coordination and Its Implementation in a Multi-Robot System
+    Vladimir Podolskiy, Michael Mayo, Abigail Koay, Michael Gerndt and Panos Patros. Maintaining SLOs of Cloud-native Applications via Self-Adaptive Resource Sharing
+    Erick Lavoie, Laurie Hendren, Frederic Desprez and Miguel Correia. Genet: A Quickly Scalable Fat-Tree Overlay for Personal Volunteer Computing using WebRTC
+    Erik M. Fredericks, Ilias Gerostathopoulos, Christian Krupitzer and Thomas Vogel. Planning as Optimization: Online Learning of Situations and Optimal Configurations
+    Kamal Hakimzadeh and Jim Dowling. Ops-Scale: Elastic Cloud Operations by Declarative Functional Abstraction and Feedback Control Loop
+    Chloe M Barnes, Anikó Ekárt and Peter R Lewis. Social Action in Socially Situated Agents
+    Lei Fang, Simon Dobson and Juan Ye. Distributed Self-monitoring Sensor Networks via Markov Switching Dynamic Linear Models
+
+Short papers
+
+    Ada Diaconescu, Louisa Jane Di Felice and Patricia Mellodge. Multi-scale Feedbacks for Large-scale Coordination in Self-* Systems
+    Bartosz Zurkowski and Krzysztof Zielinski. Towards Self-organizing Cloud Polyglot Database Systems
+    Luis Garcia Paucar and Nelly Bencomo. Runtime K Models to Support Trade-offs for Self-adaptation using Partially Observable Markov Decision Processes
+    Thomas Brand and Holger Giese. Generic adaptive monitoring based on executed architecture runtime model queries and events – effective and effort-reducing
+
+
+
+ICAC 2019
+
+
+Accepted Papers
+Full papers
+
+    Connor Imes, Huazhe Zhang, Kevin Zhao and Henry Hoffmann. CoPPer: Soft Real-time Application Performance Using Hardware Power Capping
+    Marwin Züfle, André Bauer, Veronika Lesch, Nikolas Herbst, Christian Krupitzer, Samuel Kounev and Valentin Curtef. Autonomic Forecasting Method Selection: Examination and Ways Ahead
+    Gautham Nayak Seetanadi, Karl-Erik Arzen and Martina Maggio. Model Checking a Self-Adaptive Camera Network with Physical Disturbances
+    Yesika M. Ramirez, Vladimir Podolskiy and Michael Gerndt. Capacity-Driven Scaling Schedules Derivation for Coordinated Elasticity of Containers and Virtual Machines
+    Yiran Zhao, Shuochao Yao, Dongxin Liu, Huajie Shao, Shengzhong Liu and Tarek Abdelzaher. GreenRoute: A Generalizable Fuel-Saving Vehicular Navigation Service
+    Norbert Schmitt, Lukas Iffländer, André Bauer and Samuel Kounev. Online Power Consumption for Functions in Cloud Applications
+    Michael Trotter, Timothy Wood and Jinho Hwang. Forecasting a Storm: Divining Optimal Configurations using Genetic Algorithms and Supervised Learning
+    Geir Horn and Marta Rózańska. Affine Scalarization of Two-Dimensional Utility Using the Pareto Front
+    Robert Birke, Juan F. Perez, Sonia Ben Mokhtar, Navaneeth Ramenshan and Lydia Y. Chen. Chisel: Reshaping Queries to Trim Latency in Key-Value Stores
+    Shijian Li, Robert J. Walls, LIjie Xu and Tian Guo. Speeding up Deep Learning with Transient Servers
+    Jayaram K. R., Anshul Gandhi, Hongyi Xin and Shu Tao. Adaptively Accelerating Data Analytics Applications with GPUs : A Case Study
+    Lars Larsson, William Tärneberg, Cristian Klein and Erik Elmroth. Quality-Elasticity: Improved resource utilization, throughput, and response times via adjusting output quality to current operating conditions
+    Brian Ramprasad, Marios Fokaefs, Joydeep Mukherjee and Marin Litoiu. EMU-IoT – A Virtual Internet of Things Lab
+    Michael Austin Langford and Betty H. C. Cheng. Enhancing Learning-Enabled Software Systems to Address Environmental Uncertainty
+    Gregor Schiele, Alwyn Burger and Christopher Cichiwskyj. The Elastic Node: An Experimentation Platform for Hardware Accelerator Research in the Internet of Things
+    Song Huang, Shuwen Liang, Song Fu, Weisong Shi, Devesh Tiwari and Hsing-bung Chen. Characterizing Disk Health Degradation and Proactively Protecting Against Disk Failures for Reliable Storage Systems
+
+Short papers
+
+    Asser N. Tantawi and Malgorzata Steinder. Autonomic cloud placement of mixed workload: An adaptive bin packing algorithm
+    Jayson Boubin, John Chumley, Christopher Stewart and Sami Khanal. Autonomic Computing Challenges in Fully Autonomous Precision Agriculture
+    Damian Arellanes and Kung-Kiu Lau. Workflow Variability for Autonomic IoT Systems
+    Amirhossein Mirhosseini, Brendan West, Geoffrey Blake and Thomas Wenisch. Express-Lane Threading to Minimize Tail Latency
+    Jianru Ding, Ruiqi Cao, Indrajeet Saravanan, Nathaniel Morris and Christopher Stewart. Characterizing Service Level Objectives for Cloud Services: Realities and Myths [does not appear in proceedings]
+    Mohan Baruwal Chhetri, Anton V. Uzunov, Quoc Bao Vo, Surya Nepal and Ryszard Kowalczyk. Self-Improving Autonomic Systems for Antifragile Cyber Defence: Challenges and Opportunities
+
+
+SEAMS 2019
+
+
+All Versus One: An Empirical Comparison on Retrained and Incremental Machine Learning for Modeling Performance of Adaptable Software
+Tao Chen
+	
+Applying Evolution and Novelty Search to Enhance the Resilience of Autonomous Systems
+Michael Langford, Glen Simon, Philip McKinley, Betty H.C. Cheng
+	
+Blockchain Networks as Adaptive Systems
+Sotirios Liaskos, Bo Wang, Nahid Alimohammadi
+	
+DARTSim: An Exemplar for Evaluation and Comparison of Self-Adaptation Approaches for Smart Cyber-Physical Systems
+Gabriel A. Moreno, Cody Kinneer, Ashutosh Pandey, David Garlan
+Media Attached
+	
+Defeating Denial-of-Service Attacks in a Self-Managing N-Variant System
+Jessica Jones, Jason Hiser, Jack Davidson, Stephanie Forrest
+	
+DingNet: A Self-Adaptive Internet-of-Things Exemplar
+Michiel Provoost, Danny Weyns
+	
+Dragonfly: a Tool for Simulating Self-Adaptive Drone Behaviours
+Paulo Maia, Lucas Vieira, Matheus Chagas, Yijun Yu, Andrea Zisman, Bashar Nuseibeh
+	
+Efficient Analysis of Large Adaptation Spaces Self-Adaptive Systems using Machine Learning
+Federico Quin, Danny Weyns, Thomas Bamelis, Sarpreet Singh Buttar, Sam Michiels
+	
+Inferring Analyzable Models from Trajectories of Spatially-Distributed Internet-of-Things
+Christos Tsigkanos, Laura Nenzi, Michele Loreti, Martin Garriga, Schahram Dustdar, Carlo Ghezzi
+	
+Is Adaptivity a Core Property of Intelligent Systems? It DependsAI & Adaptivity
+AbdElRahman ElSaid, Travis Desell, Daniel Krutz
+	
+Machine Learning Meets Quantitative Planning: Enabling Self-Adaptation in Autonomous Robots
+Pooyan Jamshidi, Javier Camara, Bradley Schmerl, Christian Kästner, David Garlan
+	
+Modelling and Analysing ResilientCyber-Physical Systems
+Amel Bennaceur, Carlo Ghezzi, Kenji Tei, Timo Kehrer, Danny Weyns, Radu Calinescu, Schahram Dustdar, Zhenjiang Hu, Shinichi Honiden, Fuyuki Ishikawa, Zhi Jin, Jeffrey Kramer, Marin Litoiu, Michele Loreti, Gabriel A. Moreno, Hausi Müller, Laura Nenzi, Bashar Nuseibeh, Liliana Pasquale, Wolfgang Reisig, Heinz Schmidt, Christos Tsigkanos, Haiyan Zhao
+	
+OCCI-compliant, fully causal-connected architecture runtime models supporting sensor management
+Johannes Erbel, Thomas Brand, Holger Giese, Jens Grabowski
+	
+On Learning in Collective Self-adaptive Systems: State of Practice and a 3D Framework
+Mirko D'Angelo, Simos Gerasimou, Sona Ghahremani, Johannes Grohmann, Ingrid Nunes, Evangelos Pournaras, Sven Tomforde
+Pre-print
+	
+On the Practical Feasibility of Software Monitoring: a Framework for Low-impact Execution Tracing
+Jhonny Mertz, Ingrid Nunes
+	
+PiStarGODA-MDP: A Goal-Oriented Framework to Support Assurances Provision [not in proceedings]
+Gabriela Félix Solano, Ricardo Caldas, Genaina Rodrigues, Thomas Vogel, Patrizio Pelliccione
+	
+Self-Adaptation in Mobile Apps: a Systematic Literature Study
+Eoin Grua, Ivano Malavolta, Patricia Lago
+	
+Self-adaptive AIAI & Adaptivity
+Rogério de Lemos, Marek Grzes
+	
+TRAPPed in Traffic? A Self-Adaptive Framework for Decentralized Traffic Optimization
+Ilias Gerostathopoulos, Evangelos Pournaras
+	
+Taming Uncertainty in the Assurance Process of Self-Adaptive Systems: a Goal-Oriented Approach
+Gabriela Félix Solano, Ricardo Caldas, Genaína Nunes Rodrigues, Thomas Vogel, Patrizio Pelliccione
+	
+Towards Secure Architectural Adaptation
+Narges Khakpour, Charilaos Skandylas, Goran Saman Nariman, Danny Weyns
+	
+Towards the Detection of Partial Feature Interactions
+Byron Devries, Betty H.C. Cheng
+	
+Using Unstructured Data to Improve the Continuous Planning of Critical Processes Involving Humans
+Colin Paterson, Radu Calinescu, Suresh Manandhar, Di Wang
+	
+Won't Take No for an Answer: Resource-driven Requirements Adaptation
+Amel Bennaceur, Andrea Zisman, Ciaran Mccormick, Danny Barthaud, Bashar Nuseibeh
+
+
+
+TAAS 2019
+
+
+SOD: Making Smartphone Smart on Demand with Radio Interface Management
+
+    Marco Brocanelli, Xiaorui Wang 
+
+March 2019, Article No.: 12, pp 1–24https://doi.org/10.1145/3275521
+
+
+Improving Data-Analytics Performance Via Autonomic Control of Concurrency and Resource Units
+
+    Gil Jae Lee, José A. B. Fortes 
+
+March 2019, Article No.: 13, pp 1–25https://doi.org/10.1145/3309539
+
+
+Probabilistic Policy Reuse for Safe Reinforcement Learning
+
+    Javier García, Fernando Fernández 
+
+March 2019, Article No.: 14, pp 1–24https://doi.org/10.1145/3310090
+
+
+Adaptive Behavior Modeling in Logistic Systems with Agents and Dynamic Graphs
+
+    Thibaut Démare, Cyrille Bertelle, Antoine Dutot, Dominique Fournier 
+
+
+
+TSLAM: A Trust-enabled Self-Learning Agent Model for Service Matching in the Cloud Market
+
+    Wenjuan Li, Jian Cao, Shiyou Qian, Rajkumar Buyya 
+
+July 2019, Article No.: 16, pp 1–41https://doi.org/10.1145/3317604
+
+
+
+SimCA*: A Control-theoretic Approach to Handle Uncertainty in Self-adaptive Systems with Guarantees
+
+    Stepan Shevtsov, Danny Weyns, Martina Maggio 
+
+July 2019, Article No.: 17, pp 1–34https://doi.org/10.1145/3328730
+
+
+
+A Measure of Added Value in Groups
+
+    Bedoor K. Alshebli, Tomasz P. Michalak, Oskar Skibski, Michael Wooldridge, Talal Rahwan 
+
+July 2019, Article No.: 18, pp 1–46https://doi.org/10.1145/3335547
+
+
+
+An Innovative Approach for Ad Hoc Network Establishment in Disaster Environments by the Deployment of Wireless Mobile Agents
+
+    Xing Su, Minjie Zhang, Quan Bai 
+
+
+
+Knowledge Management for Self-Organised Resource Allocation
+
+    David Burth Kurka, Jeremy Pitt, Josiah Ober 
+
+September 2019, Article No.: 1, pp 1–41https://doi.org/10.1145/3337796
+
+
+
+Designing Robot Teams for Distributed Construction, Repair, and Maintenance
+
+    Todd Wareham 
+
+September 2019, Article No.: 2, pp 1–29https://doi.org/10.1145/3337797
+
+
+
+
+Runtime Monitoring and Resolution of Probabilistic Obstacles to System Goals
+
+    Antoine Cailliau, Axel Van Lamsweerde 
+
+September 2019, Article No.: 3, pp 1–40https://doi.org/10.1145/3337800
+
+
+
+
+Mutual Influence-aware Runtime Learning of Self-adaptation Behavior
+
+    Stefan Rudolph, Sven Tomforde, Jörg Hähner 
+
+September 2019, Article No.: 4, pp 1–37https://doi.org/10.1145/3345319
+
+
+
+Self-awareness in Software Engineering: A Systematic Literature Review
+
+    Abdessalam Elhabbash, Maria Salama, Rami Bahsoon, Peter Tino 
+
+December 2019, Article No.: 5, pp 1–42https://doi.org/10.1145/3347269
+
+
+
+Collective Adaptation through Multi-Agents Ensembles: The Case of Smart Urban Mobility
+
+    Antonio Bucchiarone 
+
+December 2019, Article No.: 6, pp 1–28https://doi.org/10.1145/3355562
+
+
+
+Supporting Dynamic Workflows with Automatic Extraction of Goals from BPMN
+
+    Luca Sabatucci, Massimo Cossentino 
+
+December 2019, Article No.: 7, pp 1–38https://doi.org/10.1145/3355488
+
+
+
+
+Controlling Interactions with Libraries in Android Apps Through Runtime Enforcement
+
+    Oliviero Riganelli, Daniela Micucci, Leonardo Mariani 
+
+December 2019, Article No.: 8, pp 1–29https://doi.org/10.1145/3368087

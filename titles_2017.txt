@@ -1,0 +1,158 @@
+SASO 2017
+
+Mahmut Tamersoy, Erdem E. Ekinci, R. Cenk Erdur and Oguz Dikenelli. A Requirements Model for Adaptive Multi-Organizational Systems
+
+Lukas Esterle. Centralised, Decentralised, and Self-organised Coverage Maximisation in Smart Camera Networks
+
+Giorgio Audrito, Roberto Casadei, Ferruccio Damiani and Mirko Viroli. Compositional Blocks for Optimal Self-Healing Gradients
+
+Martin Weißbach, Philipp Chrszon, Thomas Springer, and Alexander Schill. Decentrally Coordinated Execution of Adaptations in Distributed Self-Adaptive Software Systems
+
+Yara Khaluf. Edge Detection in Static and Dynamic Environments using Robot Swarms
+
+Sharmin Jahan, Allen Marshall and Rose Gamble. Embedding Verification Concerns in Self-Adaptive System Code 
+
+Lachlan Birdsey, Claudia Szabo, Katrina Falkner. Identifying Self-Organization and Adaptability in Complex Adaptive Systems
+
+Jeremy Pitt. Interactional Justice and Self-Governance of Open Self-Organising Systems
+
+C.I. Paduraru, R.S Mincu and G. Stefanescu. Multi-level control mechanisms for non-structured and structured 2-dimensional self-assemblin
+
+Andreas Disterhoft, Andreas Funke and Kalman Graf?. PacketSkip: Skip Graph for Multidimensional Search in Structured Peer-to-Peer Systems
+
+Arpit Christi, Alex Groce and Rahul Gopinath. Resource Adaptation via Test-Based Software Minimization
+
+Cornelis Jan van Leeuwen, Kasim Sinan Yildirum and Przemyslaw Pawelczak. Self Adaptive Safe Provisioning of Wireless Power using DCOPs 
+
+Danilo Pianini, Simon Dobson and Mirko Viroli. Self-stabilising target counting in wireless sensor networks using Euler integration
+
+Erick Lavoie, Laurie Hendren and Miguel Correia. Xor-overlay Topology Management Beyond Kademlia
+
+SEAMS 2017
+
+Gabriel A. Moreno, Alessandro V. Papadopoulos, Konstantinos Angelopoulos, Javier C´amara and Bradley Schmerl. Comparing Model-Based Predictive Approaches to Self-Adaptation: CobRA and PL
+
+Gabriel A. Moreno, Ofer Strichman, Sagar Chaki and Radislav Vaisman. Decision-Making with Cross-Entropy for Self-Adaptation
+
+Cornel Barna, Hamzeh Khazaei, Marios Fokaefs and Marin Litoiu. Delivering Elastic Containerized Cloud Applications to Enable DevOps
+
+M.Usman Iftikhar, Gowri Sankar Ramachandran, Pablo Bollans´ee, Danny Weyns, Danny Hughes. DeltaIoT: A Self-Adaptive Internet of Things Exemplar
+
+Gustavo Sousa, Walter Rudametkin, Laurence Duchien. Extending Dynamic Software Product Lines with Temporal Constraints
+
+Yasuyuki Tahara, Akihiko Ohsuga and Shinichi Honiden. Formal Veri?cation of Dynamic Evolution Processes of UML Models Using Aspects
+
+Bo Zhang, Filip K?rikava and Lionel Seinturier. Hadoop-Benchmark: Rapid Prototyping and Evaluation of Self-Adaptive Behaviors in Hadoop Clusters
+
+Stepan Shevtsov, Danny Weyns and Martina Maggio. Handling New and Changing Requirements with Guarantees in Self-Adaptive Systems using SimCA*
+
+Eric Lloyd, Shihong Huang and Emmanuelle Tognoli. Improving Human-in-the-Loop Adaptive Systems Using Brain-Computer Interaction 
+
+Davi Monteiro Barbosa, Rˆomulo Gadelha de Moura Lima, Paulo Henrique Mendes Maia and Evil´asio Costa Junior. Lotus@Runtime: A Tool for Runtime Monitoring and Veri?cation of Self-adaptive Systems
+
+Oliviero Riganelli, Daniela Micucci, and Leonardo Mariani. Policy Enforcement with Proactive Libraries
+
+Pascal Weisenburger, Manisha Luthra, Boris Koldehofe, Guido Salvaneschi. Quality-Aware Runtime Adaptation in Complex Event Processing
+
+Antoine Cailliau and Axel van Lamsweerde. Runtime Monitoring and Resolution of Probabilistic Obstacles to System Goals 
+
+Peter Pilgerstorfer and Evangelos Pournaras. Self-adaptive Learning in Decentralized Combinatorial Optimization – A Design Paradigm for Sharing Economies
+
+Carlos Eduardo da Silva, Jose Diego Saraiva da Silva, Colin Paterson and Radu Calinescu. Self-Adaptive Role-Based Access Control for Business Processes
+
+Martina Maggio, Alessandro Vittorio Papadopoulos, Antonio Filieri and Henry Hoffmann. Self-Adaptive Video Encoder: Comparison of Multiple Adaptation Strategies Made Simple
+
+Ashutosh Pandey, Ivan Ruchkin, Bradley Schmerl, and Javier Cámara. 
+Towards a Formal Framework for Hybrid Planning in Self-Adaptation
+
+Pooyan Jamshidi, Miguel Velez, Christian K¨astner, Norbert Siegmund and Prasad Kawthekar. Transfer Learning for Improving Model Predictions in Highly Con?gurable Software
+
+Simos Gerasimou, Radu Calinescu, Stepan Shevtsov and Danny Weyns. UNDERSEA: An Exemplar for Engineering Self-Adaptive Unmanned Underwater Vehicles
+
+ICAC 2017
+
+Martin Pfannemuller, Christian Krupitzer, Markus Weckesser, and Christian Becker. A Dynamic Software Product Line Approach for Adaptation Planning in Autonomic Computing Systems
+
+Tianqi Zhao, Wei Zhang, Haiyan Zhao, Zhi Jin . A Reinforcement Learning-based Framework for the Generation and Evolution of Adaptation Rules
+
+Haiyang Sun, Robert Birke, Walter Binder, Mathias Bjorkqvist and Lydia Y. Chen. AccStream: Accuracy-aware Overload Management for Stream Processing Systems
+
+Christian Krupitzer, Julian Otto, Felix M. Roth, Christian Becker and Alexander Frommgen. Adding Self-improvement to an Autonomic Traf?c Management System
+
+Wei Chen, Jia Rao, Xiaobo Zhou. Addressing Memory Pressure in Data-intensive Parallel Programs via Container based Virtualization
+
+Christopher Landauer and Kirstie L. Bellman. An Architecture for Self-Awareness Experiments
+
+Shenjun Ma, Alexey Ilyushkin, Alexander Stegehuis and Alexandru Iosup. Ananke: A Q-Learning-Based Portfolio Scheduler for Complex Industrial Workflows
+
+Alexia Ingerson, David Chiu and Jason Sawin. Cache-Friendly Bitmap Compression on Symmetric Multiprocessors
+
+Arnak V. Poghosyan, Ashot N. Harutyunyan, and Naira M. Grigoryan. Compression for Time Series Databases using Independent and Principal Component Analysis
+
+Kuangyu Zheng, Bruce Beitman, and Xiaorui Wang. CoSmart: Coordinating Smartphone with Desktop Computer for Joint Energy Savings
+
+Martin Rosalie, Matthias R. Brust, Gregoire Danoy, Serge Chaumette and Pascal Bouvry. Coverage Optimization with Connectivity Preservation for UAV Swarms applying Chaotic Dynamics
+
+Emad Albassam, Jason Porter, Hassan Gomaa, Daniel A. Menasce. DARE: A Distributed Adaptation and Failure Recovery Framework for Software Systems
+
+Mohammad-Parsa Hosseini, Tuyen X. Tran, Dario Pompili, Kost Elisevich and Hamid Soltanian-Zadeh. Deep Learning with Edge Computing for Localization of Epileptogenicity using Multimodal rs-fMRI and EEG Big Data
+
+Seyyed Ahmad Javadi, Anshul Gandhi. DIAL: Reducing Tail Latencies for Cloud Applications via Dynamic Interference-aware Load Balancing
+
+Sona Ghahremani, Holger Giese and Thomas Vogel. Ef?cient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures
+
+Alwyn Burger, Christopher Cichiwskyj and Gregor Schiele. Elastic Nodes for the Internet of Things: A Middleware-Based Approach
+
+Nikita Mishra, John D. Lafferty and Henry Hoffmann. ESP: A Machine Learning Approach to Predicting Application Interference
+
+Peian Wang, Jingyun Gu, Zichen Xu. Exploring Fast Artistic Style Merging on Heterogenous Architecture
+
+Stathis Maroulis, Nikos Zacheilas, Vana Kalogeraki. ExpREsS: EneRgy Ef?cient Scheduling of Mixed Stream and Batch Processing Workloads
+
+Xin Chen, Ymir Vigfusson, Douglas M. Blough, Fang Zheng, Kun-Lung Wu and Liting Hu. GOVERNOR: Smoother Stream Processing Through Smarter Backpressure
+
+Gil Jae Lee and José A. B. Fortes. Hierarchical Self-Tuning of Concurrency and Resource Units in Data-Analytics Frameworks
+
+Frederico Alvares, Gwenaël Delaval, Eric Rutten and Lionel Seinturier. Language Support for Modular Autonomic Managers in Recon?gurable Software Components
+
+Justin Brody, Samuel Levin and Samuel Shapiro. Learning Knowledge of Agency
+
+A. Adiththan, K. Ravindran and S. Ramesh. Management of QoS-oriented Adaptation in Automobile Cruise Control Systems
+
+Christopher Landauer. Mitigating the Inevitable Failure of Knowledge Representation
+
+Phuong Nguyen and Klara Nahrstedt.MONAD:Self-adaptive Micro-service Infrastructure for Heterogeneous Scienti?c Work?ows
+
+Kyle C. Hale, Conor Hetland and Peter Dinda. Multiverse: Easy Conversion of Runtime Systems into OS Kernels via Automatic Hybridization
+
+Shaoqi Wang, Xiaobo Zhou, Liqiang Zhang and Changjun Jiang. Network-Adaptive Scheduling of Data-Intensive Parallel Jobs with Dependencies in Clusters
+
+Sulav Malla and Ken Christensen. Reducing Power Use and Enabling Oversubscription in Multi-Tenant Data Centers Using Local Price 
+
+Grunnar Brataas, Nikolas Herbst, Simon Ivansek and Jure Polutnik. Scalability Analysis of Cloud Software Services
+
+Li Li, Yunhao Bai, Xiaorui Wang, Mai Zheng, and Feng Qin. Selective Checkpointing for Minimizing Recovery Efforts of Smartphone Apps
+
+Philippe Lalanda, Eva Gerber-Gaillard and Stéphanie Chollet. Self-Aware Context in Smart Home Pervasive Platforms
+
+Evangelos Pournaras and Jovan Nikoli. Self-corrective Dynamic Networks via Decentralized Reverse Computations
+
+Johannes Grohmann, Nikolas Herbst, Simon Spinner and Samuel Kounev. Self-Tuning Resource Demand Estimation
+
+Marco Brocanelli and Xiaorui Wang. Smartphone Radio Interface Management for Longer Battery Lifetime
+
+Prasanna Giridhar, Shiguang Wang, Tarek Abdelzaher, Tanvir Al Amin and Lance Kaplan. Social Fusion: Integrating Twitter and Instagram for Event Monitoring
+
+Aurélien Vialon, Kenji Tei and Samir Aknine. Soft-Goal Approximation Context Awareness of Goal-driven Self-Adaptive Systems
+
+Alexander Frommgen, Stefan Haas, Martin Pfannem¨uller and Boris Kohldehofe. Switching ZooKeeper’s Consensus Protocol at Runtime
+	
+Nelly Bencomo. TheRoleofmodels@run.timeinAutonomicSystems: Keynote
+
+Gayatri M. Behara and Vamsy P. Chodavarapu. Towards Autonomous Depth Perception for Surveillance in Real World Environments
+
+Tuyen X. Tran, Ayman Younis, and Dario Pompili. Understanding the Computational Requirements of Virtualized Baseband Units using a Programmable Cloud Radio Access Network Testbed
+
+P. Velarde, J. M. Maestre, H. Ishii, and R. R. Negenborn. Vulnerabilities in Lagrange-based DMPC in the Context of Cyber-Security
+
+Wenxin Li, Di Niu , Yinan Liu, Shuhao Liu, Baochun Li. Wide-Area Spark Streaming: Automated Routing and Batch Sizing

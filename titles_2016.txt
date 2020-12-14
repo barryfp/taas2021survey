@@ -1,0 +1,156 @@
+SASO 2016
+
+    Karan Budhraja and Tim Oates. Controlling Swarms by Visual Demonstration
+	
+    Fernando Silva, Luís Correia and Anders Lyhne Christensen. Online Hyper-Evolution of Controllers in Multirobot Systems
+	
+    Mostafa Wahby, Daniel Nicolas Hofstadler, Mary Katherine Heinrich, Payam Zahadat and Heiko Hamann. An Evolutionary Robotics Approach to the Control of Plant Growth and Motion: Modeling Plants and Crossing the Reality Gap
+
+    Victor Lequay, Mathieu Lefort, Saber Mansour and Salima Hassas. Flexible Load Shedding using Gossip Communication in a Multi-Agents System
+	
+    Barry Porter and Roberto Rodrigues Filho. Losing Control: The Case for Emergent Software Systems using Autonomous Assembly, Perception and Learning
+	
+    Guoli Yang and Vincent Danos. Learning in open adaptive networks
+
+    Jacob Beal, Mirko Viroli, Danilo Pianini and Ferruccio Damiani. Self-adaptation to Device Distribution Changes
+	
+    Tilman Deuschel and Ted Scully. On the Importance of Spatial Perception for the Design of Adaptive User Interfaces
+
+    David Burth Kurka and Jeremy Pitt. Distributed Distributive Justice
+	
+    Patricio Petruzzi, Jeremy Pitt and Dídac Busquets. Inter-Institutional Social Capital for Self-Organising 'Nested Enterprises'
+	
+    Ada Diaconescu, Sylvain Frey, Christian Müller-Schloer, Jeremy Pitt and Sven Tomforde. Goal-oriented Holonics for Complex System (Self-)Integration: Concepts and Case Studies
+
+    Emanuele Carlini, Massimo Coppola, Patrizio Dazzi, Matteo Mordacchini and Andrea Passarella. Self-optimising Decentralised Service Placement in Heterogeneous Cloud Federation
+	
+    Gerrit Anders and Patrick Lehner. Self-Organized Graph-Based Resource Allocation
+	
+    Ashutosh Pandey, Gabriel Moreno, Javier Cámara and David Garlan. Hybrid Planning for Decision Making in Self-Adaptive Systems
+	
+    Henner Heck, Olga Kieselmann and Arno Wacker. Evaluating Connection Resilience for Self-Organizing Cyber-Physical Systems
+	
+    Sona Ghahremani, Holger Giese and Thomas Vogel. Towards Linking Adaptation Rules to the Utility Function for Dynamic Architectures
+	
+    Alain Tcheukam Siwe and Hamidou Tembine. One Swarm per Queen: A Particle Swarm Learning for Stochastic Games
+	
+    Vikramjit Singh, Markus Esch and Ingo Scholtes. Decentralized Cluster Detection in Distributed Systems based on Self-Organized Synchronization
+	
+    Abdessalam Elhabbash, Rami Bahsoon and Peter Tino. Interaction-awareness for self-adaptive volunteer computing
+	
+    Matthias Sommer, Anthony Stein and Joerg Haehner. Ensemble Time Series Forecasting with XCSF
+
+
+ICAC 2016
+
+    Wei Zhang, Timothy Wood, and Jinho Hwang
+	NetKV: Scalable, Self-Managing, Load Balancing as a Network Function
+	
+    Christian Krupitzer, Felix Maximilian Roth, Christian Becker, Markus Weckesser, Malte Lochau, and Andy Schürr
+    FESAS IDE: An Integrated Development Environment for Autonomic Computing
+	
+    Nasim Beigi-Mohammadi, Hamzeh Khazaei, Mark Shtern, Cornel Barna, and Marin Litoiu
+    On Efficiency and Scalability of Software-Defined Infrastructure for Adaptive Applications
+	
+    Quan Zhang, Yang Song, Ramani R. Routray, and Weisong Shi
+    Adaptive Block and Batch Sizing for Batched Stream Processing System
+
+    Guoyao Xu, Cheng-Zhong Xu, and Song Jiang
+    Prophet: Scheduling Executors with Time-Varying Resource Demands on Data-Parallel Computation Frameworks
+	
+    Gil Jae Lee and José A. B. Fortes
+    Hadoop Performance Self-Tuning Using a Fuzzy-Prediction Approach
+	
+    Nikos Zacheilas and Vana Kalogeraki
+    ChEsS: Cost-Effective Scheduling Across Multiple Heterogeneous Mapreduce Clusters
+
+    A. Hasan Mahmud and S. S. Iyengar
+    A Distributed Framework for Carbon and Cost Aware Geographical Job Scheduling in a Hybrid Data Center Infrastructure
+	
+    Selome Kostentinos Tesfatsion, Eddie Wadbro, and Johan Tordsson
+    Autonomic Resource Management for Optimized Power and Performance in Multi-tenant Clouds
+	
+    Cheng Wang, Bhuvan Urgaonkar, Aayush Gupta, Lydia Y. Chen, Robert Birke, and George Kesidis
+    Effective Capacity Modulation as an Explicit Control Knob for Public Cloud Profitability
+	
+    Asser N. Tantawi
+    Solution Biasing for Optimized Cloud Workload Placement (short)
+	
+    Igor Kaitovic and Miroslaw Malek
+    Optimizing Failure Prediction to Maximize Availability (short)
+
+    Navaneeth Rameshan, Ying Liu, Leandro Navarro, and Vladimir Vlassov
+    Augmenting Elasticity Controllers for Improved Accuracy
+	
+    Jidong Xiao, Lei Lu, Haining Wang, and Xiaoyun Zhu
+    HyperLink: Virtual Machine Introspection and Memory Forensic Analysis without Kernel
+
+    Rania Ben Hadj, Stéphanie Chollet, Philippe Lalanda, and Catherine Hamon
+    Sharing Devices between Applications with Autonomic Conflict Management
+	
+    Eva Gerbert-Gaillard and Philippe Lalanda
+    Self-Aware Model-Driven Pervasive Systems
+
+    Jan Kantert, Christian Reinbold, Sven Tomforde, and Christian Müller-Schloer
+    An Evaluation of Two Trust-Based Autonomic/Organic Grid Computing Systems for Volunteer-Based Distributed Rendering
+	
+    Gabriel A. Moreno, Javier Cámara, David Garlan, and Bradley Schmerl
+    Efficient Decision-Making under Uncertainty for Proactive Self-Adaptation
+	
+    Stefano Iannucci and Sherif Abdelwahed
+    A Probabilistic Approach to Autonomic Security Management
+	
+    Anthony Stein, Sven Tomforde, Dominik Rauh, and Jöerg Häehner
+    Dealing with Unforeseen Situations in the Context of Self-Adaptive Urban Traffic Control: How to Bridge the Gap (short)
+	
+    Nathaniel Morris, Siva Meenakshi Renganathan, Christopher Stewart, Robert Birke, and Lydia Chen
+    Sprint Ability: How Well Does Your Software Exploit Bursts in Processing Capacity? (short)
+
+    Jaimie Kelley, Christopher Stewart, Devesh Tiwari, and Saurabh Gupta
+    Adaptive Power Profiling for Many-Core HPC Architectures
+	
+    Naweiluo Zhou, Gwenaël Delaval, Bogdan Robu, Éric Rutten, and Jean-François Méhaut
+    Autonomic Parallelism and Thread Mapping Control on Software Transactional Memory
+	
+    Hongteng Xu, Xia Ning, Hui Zhang, Junghwan Rhee, and Guofei Jiang
+    PInfer: Learning to Infer Concurrent Request Paths from System Kernel Events
+	
+    Mohammad-Parsa Hosseini, Abolfazl Hajisami, and Dario Pompili
+    Real-Time Epileptic Seizure Detection from EEG Signals via Random Subspace Ensemble Learning
+
+
+
+SEAMS 2016
+
+Reusable Self-Adaptation through Bidirectional Programming 	Robin Dupuis, Kevin Colson, Lionel Montrieux, Zhenjiang Hu, Sebastian Uchitel and Pierre-Yves Schobbens
+
+Automatically Hardening a Self-Adaptive System against Uncertainty 	Erik Fredericks
+Data­-Driven Continuous Evolution of Smart Systems 	Jan Bosch and Helena Holmström Olsson
+
+Model Predictive Control for Software Systems with CobRA 	Konstantinos Angelopoulos, Alessandro Vittorio Papadopoulos, Vitor E. Silva Souza and John Mylopoulos
+
+Privacy Dynamics: Learning Privacy Norms for Social Software 	Gul Calikli, Mark Law, Arosha Bandara, Alessandra Russo, Luke Dickens, Blaine Price, Avelie Stuart, Mark Levine and Bashar Nuseibeh
+
+TARL: Modeling Topology Adaptations for Networking Applications 	Michael Stein, Alexander Frömmgen, Roland Kluge, Frank Löffler, Andy Schürr, Alejandro Buchmann and Max Mühlhäuser
+
+Adapting Heterogeneous Devices into an IoT Context-Aware Infrastructure 	Henrique Brites Pötter and Alexandre Sztajnberg
+
+Self-Adaptation for Cyber-Physical Systems: A Systematic Literature Review 	Henry Muccini, Mohammad Sharaf and Danny Weyns
+
+Model Problem and Testbed for Experiments with Adaptation in Smart Cyber-Physical Systems 	Vladimir Matena, Tomas Bures, Ilias Gerostathopoulos and Petr Hnetynka
+
+Feed me, Feed me: An Exemplar for Engineering Adaptive Software 	Amel Bennaceur, Ciaran McCormick, Jesús García Galán, Charith Perera, Andrew Smith, Andrea Zisman and Bashar Nuseibeh
+
+Assured and Correct Dynamic Update of Controllers Leandro Nahabedian, Victor Braberman, Nicolas D’Ippolito, Shinichi Honiden, Jeff Kramer, Kenji Tei and Sebastian Uchitel
+
+Towards Adaptive Compliance 	Jesús García Galán, Liliana Pasquale, George Grispos and Bashar Nuseibeh
+
+Using Dynamic Adaptive Systems in Safety-Critical Domains 	Ethan McGee and John Mcgregor
+
+Clonal Plasticity: A Method for Decentralized Adaptation in Multi-Agent Systems 	Vivek Nallur, Nicolas Cardozo and Siobhan Clarke
+
+Economics-Driven Resource Scalability on the Cloud 	Marios Fokaefs, Cornel Barna and Marin Litoiu
+
+Evolution of Multi-tenant SaaS Applications through Self-adaptive Upgrade Enactment and Tenant Mediation 	Fatih Gey, Dimitri Van Landuyt and Wouter Joosen
+
+Learning and Evolution in Dynamic Software Product Lines 	Amir Molzam Sharifloo, Andreas Metzger, Clement Quinton, Luciano Baresi and Klaus Pohl
